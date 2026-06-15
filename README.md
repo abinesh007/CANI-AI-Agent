@@ -1,2 +1,54 @@
-# CANI-AI-Agent
-CANI (கனி) – A Context-Aware Nutritional Intelligence AI Agent that provides climate-aware hydration, meal reminders, and personalized wellness guidance.
+# CANI (கனி)
+
+### Context-Aware Nutritional Intelligence Agent
+
+> Like having a personal nutritionist beside you every day.
+
+CANI is an AI-powered wellness companion that combines weather intelligence, hydration monitoring, meal reminders, and conversational AI to help users make healthier daily decisions.
+
+Unlike traditional reminder applications, CANI adapts its recommendations based on environmental conditions, time of day, user interactions, and device activity. The system proactively supports hydration tracking, meal adherence, and nutrition-related decision-making through intelligent, context-aware guidance.
+
+## Why CANI?
+
+Most wellness applications provide generic reminders:
+
+"Drink water."
+"Lunch time."
+"Dinner time."
+
+CANI goes a step further:
+
+"Today's temperature is 37°C with high humidity. Based on the current climate, you may need additional hydration. Try to complete 2 more glasses of water before lunch."
+
+The goal is to transform static reminders into intelligent wellness coaching.
+
+## Core Features
+
+* Climate-aware hydration recommendations
+* Intelligent meal reminders
+* Conversational nutrition assistant
+* Voice-based interactions
+* Device activity awareness
+* Daily wellness insights
+* Personalized habit-building support
+
+## Tech Stack
+
+* Python
+* OpenAI / Local LLMs
+* LangChain
+* Weather APIs
+* SQLite
+* Speech Recognition
+* Text-to-Speech
+* System Monitoring Services
+
+## Project Status
+
+🚧 Currently under development.
+
+Planned Release:
+
+* Phase 1: Desktop Agent
+* Phase 2: Mobile Companion
+* Phase 3: Multi-Agent Wellness Ecosystem
