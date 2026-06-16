@@ -47,6 +47,8 @@ The goal is to transform static reminders into intelligent wellness coaching.
 
 🚧 Currently under development!
 
-#MVP for your look
+## MVP for your look
+
+
 <img width="649" height="582" alt="image" src="https://github.com/user-attachments/assets/07e9ef2f-8717-4419-9593-71eb78414678" />
 
