@@ -1,0 +1,15 @@
+requests
+python-dotenv
+langchain
+langchain_google_genai
+langchain_community
+langchain_core
+
+# Optional: for using local models (Ollama, LM Studio, etc.)
+# ollama
+# faster-whisper
+# pyttsx3
+
+# Optional: for SQLite database
+# sqlalchemy
+# aiosqlite

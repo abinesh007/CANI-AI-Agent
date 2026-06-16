@@ -45,10 +45,4 @@ The goal is to transform static reminders into intelligent wellness coaching.
 
 ## Project Status
 
-🚧 Currently under development.
-
-Planned Release:
-
-* Phase 1: Desktop Agent
-* Phase 2: Mobile Companion
-* Phase 3: Multi-Agent Wellness Ecosystem
+🚧 Currently under development!
