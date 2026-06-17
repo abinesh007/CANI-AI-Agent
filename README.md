@@ -1,5 +1,8 @@
 # CANI (கனி)
 
+<img width="500" height="500" alt="kani_logo_512_safezone111__1_-removebg-preview" src="https://github.com/user-attachments/assets/29357f02-8ee9-4ad3-9436-4154f912425a" />
+
+
 ### Context-Aware Nutritional Intelligence Agent
 
 > Like having a personal nutritionist beside you every day.
@@ -47,8 +50,10 @@ The goal is to transform static reminders into intelligent wellness coaching.
 
 🚧 Currently under development!
 
-## MVP for your look
-
+## Desktop MVP look
 
 <img width="649" height="582" alt="image" src="https://github.com/user-attachments/assets/07e9ef2f-8717-4419-9593-71eb78414678" />
 
+## Mobile App V1 look
+
+<img width="1080" height="2408" alt="image" src="https://github.com/user-attachments/assets/5a18e3a9-33c9-4b77-80bc-a7f95236848f" />
